@@ -17,6 +17,7 @@
 * 4、...
 <br/>
 ##AndroidStudio集成AndroidAnnotations方法
+<br/>
 * 1、全局build.gradle
 <br/>
 ```Java
@@ -25,3 +26,9 @@
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
     }
 ```
+
+
+#阿迪萨斯
+
+啊实打实的
+==================
