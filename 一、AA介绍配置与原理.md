@@ -4,7 +4,7 @@
 官网:http://androidannotations.org/
 
 特点
-   1、使用依赖注入
+      1、使用依赖注入
 2、简化的线程模型，
 3、事件绑定
 4、REST 
