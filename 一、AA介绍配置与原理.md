@@ -16,8 +16,8 @@
 * 2、Dagger
 * 3、ButterKnife
 * 4、...
-####AndroidStudio集成AndroidAnnotations方法
 
+####AndroidStudio集成AndroidAnnotations方法
 * 1、全局build.gradle
 ```Java
     dependencies {
