@@ -42,6 +42,4 @@
       variant.outputs[0].processResources.manifestFile
     }
   }
-```
-
-<font color="red">asdasdasd</font>
+``` 
