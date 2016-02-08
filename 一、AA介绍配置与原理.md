@@ -20,10 +20,10 @@
 ####AndroidStudio集成AndroidAnnotations方法
 * 1、全局build.gradle
 ```Java
-    dependencies {
-        classpath 'com.android.tools.build:gradle:1.3.0’
-        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
-    }
+>dependencies {
+>>classpath 'com.android.tools.build:gradle:1.3.0’
+>>classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+>}
 ```
 * 2、Module内部build.gradle
 ```Java
