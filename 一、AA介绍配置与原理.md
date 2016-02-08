@@ -4,7 +4,7 @@
 　　目前主流的注解框架有xUtils、ButterKnife、Dragger和Roboguice，它们的实现原理都是一致的，都是通过反射机制实现的。通过在Runtime运行期去反射类中带有注解的Field和Method，然后再去执行注解相对应的逻辑代码。大家都知道反射机制是在APP的运行期执行的，会造成执行的效率下降，执行时间变长的缺点。当在我们APP中大量的使用基于反射的注解，会严重影响到性能。但是AA的实现的逻辑并不是基于此。<br/>
 　　AA工作的原理其实也很简单，它通过使用jdk 1.6引入的Java Annotation Processing Tool，在编译器中加了一层额外的自动编译步骤，用来生成基于你源码的代码。生成的代码是你源码的直接子类，而且自动生成的类的名称就是父类名称后面加个下划线。比如使用了@EActivity注解的MyActivity，AA都会自动帮你生成一个名为MyActivity_的类。使用AA的注解在编译期间就已经自动生成了对应的子类，运行期运行的其实就是这个子类，所以说AA的使用不会给APP的执行性能造成负面影响。<br/>
 <br/>
-[官网地址](http://androidannotations.org "http://androidannotations.org") 
+　　[官网地址](http://androidannotations.org "http://androidannotations.org") 
 <br/>
 ####特点
 * 1、使用依赖注入
