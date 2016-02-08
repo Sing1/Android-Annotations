@@ -1,18 +1,13 @@
-将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。 如:blush:，显示为:blush:
+#介绍
+　　AndroidAnnotations是一个能够让你快速进行Android开发的开源框架，它可以让我更加专注于业务功能开发。并且使代码更加精<br/>
+简，使项目更加容易维护(例如:findViewById(),setOnClickListener())，它的目标就是“Fast Android Development.Easy maintainance”<br/>(Android快速开发,简单维护)<br/>
 
-人物
+官网:http://androidannotations.org/
 
-syntax	preview	syntax	preview	syntax	preview
-:bowtie:	:bowtie:	:smile:	:smile:	:laughing:	:laughing:
-:blush:	:blush:	:smiley:	:smiley:	:relaxed:	:relaxed:
-:smirk:	:smirk:	:heart_eyes:	:heart_eyes:	:kissing_heart:	:kissing_heart:
-:kissing_closed_eyes:	:kissing_closed_eyes:	:flushed:	:flushed:	:relieved:	:relieved:
-:satisfied:	:satisfied:	:grin:	:grin:	:wink:	:wink:
-:stuck_out_tongue_winking_eye:	:stuck_out_tongue_winking_eye:	:stuck_out_tongue_closed_eyes:	:stuck_out_tongue_closed_eyes:	:grinning:	:grinning:
-:kissing:	:kissing:	:kissing_smiling_eyes:	:kissing_smiling_eyes:	:stuck_out_tongue:	:stuck_out_tongue:
-:sleeping:	:sleeping:	:worried:	:worried:	:frowning:	:frowning:
-:anguished:	:anguished:	:open_mouth:	:open_mouth:	:grimacing:	:grimacing:
-:confused:	:confused:	:hushed:	:hushed:	:expressionless:	:expressionless:
-:unamused:	:unamused:	:sweat_smile:	:sweat_smile:	:sweat:	:sweat:
-:disappointed_relieved:	:disappointed_relieved:	:weary:	:weary:	:pensive:	:pensive:
-:disappointed:	:disappointed:	:confounded:	:confounded:	:fearful:
+特点
+      1、使用依赖注入
+      2、简化的线程模型，
+      3、事件绑定
+      4、REST 
+      5、包不超过159K,并且性能基本不受影响
+   
