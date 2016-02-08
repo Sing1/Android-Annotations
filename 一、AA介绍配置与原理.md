@@ -4,9 +4,14 @@
 [官网地址](http://androidannotations.org "http://androidannotations.org") 
 <br/>
 ###特点
+<br/>
 * 1、使用依赖注入
+<br/>
 * 2、简化的线程模型，
+<br/>
 * 3、事件绑定
+<br/>
 * 4、REST 
+<br/>
 * 5、包不超过159K,并且性能基本不受影响
    
