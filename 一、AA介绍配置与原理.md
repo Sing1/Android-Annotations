@@ -11,8 +11,8 @@
 * 5、包不超过159K,并且性能基本不受影响
 <br/>
 <br/>
-###相似DI框架
-<br/>
+####相似DI框架
+
 * 1、RoboGuice
 * 2、Dagger
 * 3、ButterKnife
