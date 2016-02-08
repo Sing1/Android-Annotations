@@ -9,7 +9,9 @@
 * 3、事件绑定
 * 4、REST
 * 5、包不超过159K,并且性能基本不受影响
-<br/>####相似DI框架
+<br/>
+####相似DI框架
+----
 * 1、RoboGuice
 * 2、Dagger
 * 3、ButterKnife
