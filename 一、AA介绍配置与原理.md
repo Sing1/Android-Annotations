@@ -10,18 +10,13 @@
 * 4、REST
 * 5、包不超过159K,并且性能基本不受影响
 <br/>
-
-#####相似DI框架
-
+####相似DI框架
 * 1、RoboGuice
 * 2、Dagger
 * 3、ButterKnife
 * 4、...
-
-##AndroidStudio集成AndroidAnnotations方法
-
+####AndroidStudio集成AndroidAnnotations方法
 * 1、全局build.gradle
-<br/>
 ```Java
     dependencies {
         classpath 'com.android.tools.build:gradle:1.3.0’
