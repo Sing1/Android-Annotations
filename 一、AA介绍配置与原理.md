@@ -41,8 +41,7 @@
   
   apt {
     arguments {
-      androidManifestFile
-      variant.outputs[0].processResources.manifestFile
+      androidManifestFile variant.outputs[0].processResources.manifestFile
     }
   }
 ``` 
