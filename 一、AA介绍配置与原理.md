@@ -20,23 +20,26 @@
 ####AndroidStudio集成AndroidAnnotations方法
 * 1、全局build.gradle
 ```Java
->dependencies {
->>classpath 'com.android.tools.build:gradle:1.3.0’
->>classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
->}
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.3.0’
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+    }
 ```
 * 2、Module内部build.gradle
 ```Java
   apply plugin: 'com.android.application'
   apply plugin: 'android-apt'
   def AAVersion = 'XXX' 这边填写版本号，现在AndroidAnnotations的发布版本已经到了3.3.2
+  
   dependencies {
     apt "org.androidannotations:androidannotations:$AAVersion"
     compile "org.androidannotations:androidannotations-api:$AAVersion"
   }
+  
   apt {
     arguments {
-      androidManifestFile      variant.outputs[0].processResources.manifestFile
+      androidManifestFile
+      variant.outputs[0].processResources.manifestFile
     }
   }
 ```
