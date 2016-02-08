@@ -17,8 +17,9 @@
 * 2、Dagger
 * 3、ButterKnife
 * 4、...
-<br/>
+
 ##AndroidStudio集成AndroidAnnotations方法
+
 * 1、全局build.gradle
 <br/>
 ```Java
