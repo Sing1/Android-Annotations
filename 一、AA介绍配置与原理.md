@@ -4,7 +4,6 @@
 [官网地址](http://androidannotations.org "http://androidannotations.org") 
 <br/>
 ###特点
-<br/>
 * 1、使用依赖注入
 <br/>
 * 2、简化的线程模型，
