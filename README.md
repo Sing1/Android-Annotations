@@ -4,28 +4,19 @@
 <br/>
 <br/>
 ###　　申明：<br/>
+#####　　　　本篇非原创，来源于菜鸟窝讲师（江清清）的视频整理，作为笔记学习，有学员如不想看视频可以直接看我的学习笔记。
+<br/>
 
-#####　　　　本篇非原创，来源于菜鸟窝讲师（江清清）的视频整理，作为笔记学习，有学员如不想看视频可以直接看我的笔记学习。
-<br/>
-<br/>
-<br/>
 ==============================================================================
-####　　（ [视频原地址](http://www.cniao5.com/course/10074) ）<br>
-[![AndroidAnnotations]](http://www.cniao5.com/course/10074)  
-[AndroidAnnotations]:http://7mno4h.com2.z0.glb.qiniucdn.com/4855cf70-91ae-11e5-8863-00163e0230fa.jpg "AndroidAnnotations视频Logo"
+####　　进入[视频原地址](http://www.cniao5.com/course/10074) ） 
 <br/>
-<br/>
-<br/>
+
 ==============================================================================
 ####　　进入[菜鸟窝](http://www.cniao5.com/)
-[![cainiao5]](http://www.cniao5.com/)  
-[cainiao5]:http://www.cniao5.com/static/images/logo.png "菜鸟窝Logo"
-<br/>
-<br/>
-<br/>
-#####　　欢迎关注江清清老师的技术专栏（专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。）<br/>
-　　进入[官网](http://www.lcode.org/)
+
+==============================================================================
+######　　欢迎关注江清清老师的技术专栏（专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。）<br/>
+####　　进入[官网](http://www.lcode.org/)
 　　　　<br/>
-　　　　
 ![jiangqingqing](http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/01/qrcode_for_gh_c6208faa1f42_430.jpg "微信订阅号:codedev123")
  
