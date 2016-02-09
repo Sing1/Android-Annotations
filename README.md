@@ -6,5 +6,5 @@
 ==============================================================================
 ####　　进入[视频原地址](http://www.cniao5.com/course/10074)
 ####　　进入[菜鸟窝](http://www.cniao5.com/)
-####　　进入[江清清老师的技术专栏官网](http://www.lcode.org/)
+####　　进入[江清清的技术专栏官网](http://www.lcode.org/)
 ![jiangqingqing](http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/01/qrcode_for_gh_c6208faa1f42_430.jpg "微信订阅号:codedev123")
