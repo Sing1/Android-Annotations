@@ -1,7 +1,7 @@
 
 ###主要知识点
 * [1、EActivity](#line_1)
-* [2、EApplication　/App](#line_2)
+* [2、EApplication　/App](#asd)
 * [3、EBean　/Bean](#line_3)
 * [4、EFragment](#line_4)
 * [5、EService](#line_5)
@@ -72,7 +72,7 @@
 　　　　BActivity在运行时生成子类BActivity_，使用时是BActivity_而不是BActivity，所有在注册和跳转时都是BActivity_。
 　　　　
 =========================================================================
-####<a name="link_2"/>2、EApplication /App
+####<a name="asd"/>2、EApplication /App
 　　实现功能：启动的时候在onCreate()方法中添加一个Map，在BActivity中点击按钮获取到这个值
 <br/>
 <br/>
