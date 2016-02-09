@@ -9,6 +9,7 @@
 <br/>
 
 ==============================================================================
+　　视频原地址<br>
 [![AndroidAnnotations]](http://www.cniao5.com/course/10074)  
 [AndroidAnnotations]:http://7mno4h.com2.z0.glb.qiniucdn.com/4855cf70-91ae-11e5-8863-00163e0230fa.jpg "AndroidAnnotations视频Logo"
 
@@ -18,3 +19,9 @@
 [cainiao5]:http://www.cniao5.com/static/images/logo.png "菜鸟窝Logo"
 　　以就业为导向，精心打造的职业培训课程。游戏通关式教学，任务制学习
 <br/>
+<br/>
+<br/>
+#####　　欢迎关注江清清老师的技术专栏
+　　专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。微信订阅号:codedev123
+[![jiangqingqing]](http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/01/qrcode_for_gh_c6208faa1f42_430.jpg "微信")  
+  
