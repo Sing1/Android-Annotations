@@ -22,6 +22,7 @@
 <br/>
 <br/>
 #####　　欢迎关注江清清老师的技术专栏
-　　专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。微信订阅号:codedev123
-[![jiangqingqing]](http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/01/qrcode_for_gh_c6208faa1f42_430.jpg "微信")  
-  
+　　　　专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。微信订阅号:codedev123<br/>
+　　　　
+![jiangqingqing](http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/01/qrcode_for_gh_c6208faa1f42_430.jpg "微信二维码")
+ 
