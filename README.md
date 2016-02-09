@@ -4,9 +4,8 @@
 　　　　本篇非原创，来源于菜鸟窝讲师（江清清）的视频整理，作为笔记学习，有学员如不想看视频可以直接看我的笔记学习。
 <br/>
 
-###菜鸟窝
+==============================================================================
+[![cainiao5]](http://www.cniao5.com/)  
+[cainiao5]:http://www.cniao5.com/static/images/logo.png "菜鸟窝Logo"
 　　以就业为导向，精心打造的职业培训课程。游戏通关式教学，任务制学习
 <br/>
-　　点击进入官网--->[![cainiao5]](http://www.cniao5.com/)  
-[cainiao5]:http://www.cniao5.com/static/images/logo.png "菜鸟窝Logo"
-
