@@ -1,5 +1,4 @@
-
-#####　　从今天起摆脱AsyncTask写法
+######从今天起摆脱AsyncTask写法
 ###主要知识点
 * 1、Background(共享线程池,并行) BackgroundExecutor.cancelAll("id") (id,serial,delay)
 * 2、UiThread
