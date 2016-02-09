@@ -9,6 +9,11 @@
 <br/>
 
 ==============================================================================
+[![AndroidAnnotations]](http://www.cniao5.com/course/10074)  
+[AndroidAnnotations]:http://7mno4h.com2.z0.glb.qiniucdn.com/4855cf70-91ae-11e5-8863-00163e0230fa.jpg "AndroidAnnotations视频Logo"
+
+
+==============================================================================
 [![cainiao5]](http://www.cniao5.com/)  
 [cainiao5]:http://www.cniao5.com/static/images/logo.png "菜鸟窝Logo"
 　　以就业为导向，精心打造的职业培训课程。游戏通关式教学，任务制学习
