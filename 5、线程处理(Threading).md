@@ -1,33 +1,11 @@
 ######从今天起摆脱AsyncTask写法
 ###主要知识点
-* 1、Background(共享线程池,并行) BackgroundExecutor.cancelAll("id") (id,serial,delay)
-* 2、UiThread
-* 3、SupposeBackground  确保子线陈运行
-* 4、SupposeUiThread    确保主线程运行 
+* [1、Background(共享线程池,并行) BackgroundExecutor.cancelAll("id") (id,serial,delay)](#Background)
+* [2、UiThread](#UiThread)
+* [3、SupposeBackground　确保子线陈运行](#SupposeBackground)
+* [4、SupposeUiThread　确保主线程运行](#SupposeUiThread)
 
-####1、
-　　实现功能：
-<br/>
-<br/>
-　　activity_main.xml代码就一个Button
-```Java
-　 
-```
-　　MainActivity代码
-
-待更新
-###主要知识点
-* [1、TextChange](#TextChange)
-* [2、AfterTextChange](#AfterTextChange)
-* [3、BeforeTextChange](#BeforeTextChange)
-* [4、FoucsChange](#FoucsChange)
-* [5、CheckedChange](#CheckedChange)
-* [6、Touch](#Touch)
-* [7、Click](#Click)
-* [8、LongClick](#LongClick)
-* [9、ItemClick](#ItemClick)
-
-####<a name="TextChange"/>1、TextChange
+####<a name="Background"/>1、Background(共享线程池,并行) BackgroundExecutor.cancelAll("id") (id,serial,delay)
 　　实现功能：
 <br/>
 <br/>
@@ -38,7 +16,7 @@
 　　MainActivity代码 
 
 =========================================================
-####<a name="AfterTextChange"/>2、AfterTextChange
+####<a name="UiThread"/>2、UiThread
 　　实现功能：
 <br/>
 <br/>
@@ -50,7 +28,7 @@
 ...
 
 =========================================================
-####<a name="BeforeTextChange"/>3、BeforeTextChange
+####<a name="SupposeBackground"/>3、SupposeBackground　确保子线陈运行
 　　实现功能：
 <br/>
 <br/>
@@ -62,7 +40,7 @@
 ...
 
 =========================================================
-####<a name="FoucsChange"/>4、FoucsChange
+####<a name="SupposeUiThread"/>4、SupposeUiThread　确保主线程运行
 　　实现功能：
 <br/>
 <br/>
