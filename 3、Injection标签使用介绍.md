@@ -89,6 +89,7 @@
 ```Java
 　　@EActivity(R.layout.three_layout)
 　　public class ThreeActivity  extends Activity {
+　　
 　　　　@Extra
 　　　　String myMessage;
 　　　　
@@ -209,10 +210,12 @@
 ```Java
 　　@EBean
 　　public class PersonBean {
+　　
     　　@RootContext
     　　Context context;//已经实例化好了
     　　private String username;
     　　private String extra;
+    　　
     　　public PersonBean() {}
 
     　　public String getUsername() {
@@ -255,6 +258,7 @@
 ```Java
 　　@EActivity(R.layout.two_layout)
 　　public class TwoActivity extends Activity {
+　　
     　　@SystemService
     　　ConnectivityManager connectivityManager;
    
@@ -267,7 +271,6 @@
     　　}
     　　@Click(R.id.btn_one)
     　　public void buttonClick(){
-        
 　　　　　　//获取手机所有连接管理对象(包括wi-fi,net等连接的管理)
 　　　　　　// ConnectivityManager connectivityManager = (ConnectivityManager)this.getSystemService(Context.CONNECTIVITY_SERVICE);
 　　　　　　// 获取NetworkInfo对象
