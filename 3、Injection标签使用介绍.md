@@ -16,6 +16,7 @@
 ```Java
 　　@EActivity(R.layout.two_layout)
 　　public class TwoActivity extends Activity {
+　　
 　　　　@Extra("key_value")//可以不写，不写的时候会默认将message作为key
 　　　　String message;//注解之后会生成一个message的函数
 
@@ -36,8 +37,10 @@
 ```Java
 　　@EActivity(R.layout.three_layout)
 　　public class ThreeActivity  extends Activity {
+　　
 　　　　@Extra
     　　String myMessage;
+    　　
     　　@Override
     　　protected void onCreate(Bundle savedInstanceState) {
         　　super.onCreate(savedInstanceState);
@@ -87,8 +90,9 @@
 　　@EActivity(R.layout.three_layout)
 　　public class ThreeActivity  extends Activity {
 　　　　@Extra
-    　　String myMessage;
-    　　@Override
+　　　　String myMessage;
+　　　　
+　　　　@Override
 　　　　protected void onCreate(Bundle savedInstanceState) {
 　　　　　　super.onCreate(savedInstanceState);
 　　　　　　Intent mIntent=this.getIntent();
@@ -111,7 +115,7 @@
 　　实现功能：注入普通类之后的一些初始化之类的。
 <br/>
 <br/>
-TwoActivity的代码:
+　　TwoActivity的代码:
 ```Java
 　　@EActivity(R.layout.two_layout)
 　　public class TwoActivity extends Activity {
@@ -137,7 +141,7 @@ TwoActivity的代码:
 
 =========================================================
 ####<a name="ViewById"/>5、ViewById
-　　实现功能：
+　　实现功能：能成功实例化控件
 <br/>
 <br/>
 　　TwoActivity的代码：
